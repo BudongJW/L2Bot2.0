@@ -1,6 +1,6 @@
-# L2Bot 2.0
+# L2Grinder
 
-Yet another ingame bot for Lineage 2 Interlude.
+Automated grinding framework for Lineage 2 Interlude.
 
 [English](#overview) | [中文](#中文说明)
 
@@ -10,7 +10,7 @@ Yet another ingame bot for Lineage 2 Interlude.
 
 ## Overview
 
-L2Bot 2.0 is a modular bot framework for Lineage 2 Interlude. It consists of an injectable DLL that hooks into the game client, a core C++ framework, and a WPF desktop client for control and visualization.
+L2Grinder is a modular bot framework for Lineage 2 Interlude. It consists of an injectable DLL that hooks into the game client, a core C++ framework, and a WPF desktop client for control and visualization.
 
 ## Architecture
 
@@ -215,7 +215,7 @@ This project is for **educational and research purposes only**. Using bots viola
 
 ## 概述
 
-L2Bot 2.0 是一个用于天堂2（Lineage 2 Interlude）的模块化游戏内机器人框架。由可注入DLL、C++核心框架和WPF桌面客户端组成。
+L2Grinder 是一个用于天堂2（Lineage 2 Interlude）的模块化游戏内机器人框架。由可注入DLL、C++核心框架和WPF桌面客户端组成。
 
 ## 架构
 

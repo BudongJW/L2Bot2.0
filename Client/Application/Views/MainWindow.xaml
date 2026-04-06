@@ -9,7 +9,7 @@
         xmlns:components="clr-namespace:Client.Application.Components"
         xmlns:views="clr-namespace:Client.Application.Views"
         mc:Ignorable="d"
-        Title="L2Bot 2.0 Client" Height="600" Width="1024">
+        Title="L2Grinder" Height="600" Width="1024">
     <Window.Resources>
         <CollectionViewSource x:Key="SortedCreatures" Source="{Binding Creatures, Mode=OneWay}" IsLiveSortingRequested="True">
             <CollectionViewSource.SortDescriptions>

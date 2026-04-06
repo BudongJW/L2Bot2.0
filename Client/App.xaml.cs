@@ -41,7 +41,7 @@ namespace Client
             {
                 MessageBox.Show(
                     $"Unhandled error:\n\n{e.Exception.Message}\n\n{e.Exception.StackTrace}",
-                    "L2Bot 2.0 - Error",
+                    "L2Grinder - Error",
                     MessageBoxButton.OK,
                     MessageBoxImage.Error);
                 e.Handled = true;
@@ -72,7 +72,7 @@ namespace Client
             {
                 MessageBox.Show(
                     $"Failed to start application:\n\n{ex.Message}\n\n{ex.StackTrace}",
-                    "L2Bot 2.0 - Startup Error",
+                    "L2Grinder - Startup Error",
                     MessageBoxButton.OK,
                     MessageBoxImage.Error);
                 Shutdown(1);
